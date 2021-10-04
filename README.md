@@ -26,6 +26,8 @@ Considerations/assumptions:
 
 3) The input path for files to be created and the output path for processeed files to be created are assumed to be fixed for now. 
     We can changethe private variables or the program can be extended to take in input params for folder locations.
+   INput location of file: C:\New folder\testfiles
+   Output location of processed fie: C:\New folder\outputfiles   
 
 
 Extensions: A separate program can be written to test the application instead of manually copying the files and testing
